@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[sample page]]></title><description><![CDATA[test1]]></description><link>test2</link><generator>NodeJS RSS Module</generator><lastBuildDate>Wed, 29 Aug 2012 03:17:48 GMT</lastBuildDate><atom:link href="test2/rss.xml" rel="self" type="application/rss+xml"/></channel></rss>
